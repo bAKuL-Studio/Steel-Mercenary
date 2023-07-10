@@ -13,7 +13,7 @@
 <h2 align="center">Feedback and Support</h2>
 
 <p align="center">
-  If you encounter any issues or have suggestions for improvement, please submit them in the <a href="https://github.com/bAKuL-Studio/Steel-Mercenary/releases/latest">Latest Updates</a> <a href="https://github.com/bAKuL-Studio/Steel-Mercenary/releases/issues">Issues</a> section of this repository. Our team will be happy to assist you.
+  If you encounter any issues or have suggestions for improvement, please submit them in the <a href="https://github.com/bAKuL-Studio/Steel-Mercenary/releases/latest">Latest Updates</a> <a href="https://github.com/bAKuL-Studio/Steel-Mercenary/issues">Issues</a> section of this repository. Our team will be happy to assist you.
 </p>
 
 <details>
