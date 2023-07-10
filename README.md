@@ -19,6 +19,9 @@
 <details>
   <summary>Historic Version</summary>
   <ul>
-    <li>&nbsp;&nbsp;-</li>
+    Pre-Alpha<br>
+     - <a href="https://github.com/bAKuL-Studio/Steel-Mercenary/releases/tag/0.4-pre">Pre-Alpha 0.4</a> <b>Experience Point Update</b> [26 Nov 2020]<br>
+     - <a href="https://github.com/bAKuL-Studio/Steel-Mercenary/releases/tag/0.2-pre">Pre-Alpha 0.2</a> [26 Nov 2020]<br>
+     - <a href="https://github.com/bAKuL-Studio/Steel-Mercenary/releases/tag/0.1.1-pre">Pre-Alpha 0.1</a> [26 Nov 2020]<br>
   </ul>
 </details>
