@@ -20,6 +20,7 @@
   <summary>Historic Version</summary>
   <ul>
     Pre-Alpha<br>
+     - <a href="https://github.com/bAKuL-Studio/Steel-Mercenary/releases/tag/0.5-pre">Pre-Alpha 0.6</a> <b>QoL Update</b> [21 Dec 2020]<br>
      - <a href="https://github.com/bAKuL-Studio/Steel-Mercenary/releases/tag/0.5-pre">Pre-Alpha 0.5</a> <b>Leaderboard & QoL Update</b> [4 Dec 2020]<br>
      - <a href="https://github.com/bAKuL-Studio/Steel-Mercenary/releases/tag/0.4-pre">Pre-Alpha 0.4</a> <b>Experience Point Update</b> [26 Nov 2020]<br>
      - <a href="https://github.com/bAKuL-Studio/Steel-Mercenary/releases/tag/0.2-pre">Pre-Alpha 0.2</a> <b>More Swords Update</b> [18 Nov 2020]<br>
