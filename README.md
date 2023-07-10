@@ -22,7 +22,7 @@
     <details>
       <summary>Alpha</summary>
       <ul>
-        <li> <a href="https://github.com/bAKuL-Studio/Steel-Mercenary/releases/tag/0.8.17ab-alpha">Alpha 0.8.17b</a> [19 Mar 2022]<br>
+        <li> <a href="https://github.com/bAKuL-Studio/Steel-Mercenary/releases/tag/0.8.17b-alpha">Alpha 0.8.17b</a> [19 Mar 2022]<br>
         <li> <a href="https://github.com/bAKuL-Studio/Steel-Mercenary/releases/tag/0.8.17a-alpha">Alpha 0.8.17a</a> [18 Mar 2022]<br>
         <li> <a href="https://github.com/bAKuL-Studio/Steel-Mercenary/releases/tag/0.8.16c-alpha">Alpha 0.8.16c</a> [15 Mar 2022]<br>
         <li> <a href="https://github.com/bAKuL-Studio/Steel-Mercenary/releases/tag/0.8.16b-alpha">Alpha 0.8.16b</a> [13 Mar 2022]<br>
