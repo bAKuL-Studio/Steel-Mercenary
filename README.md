@@ -17,8 +17,31 @@
 </p>
 
 <details>
-  <summary>Historic Version</summary>
+  <summary>Previous Version</summary>
   <ul>
+    <details>
+      <summary>Beta</summary>
+      <ul>
+        <li> <a href="https://github.com/bAKuL-Studio/Steel-Mercenary/releases/tag/0.9.8b-beta">Beta 0.9.8b</a> [14 November 2022]<br>
+        <li> <a href="https://github.com/bAKuL-Studio/Steel-Mercenary/releases/tag/0.9.8a-beta">Beta 0.9.8a</a> [5 August 2022]<br>
+        <li> <a href="https://github.com/bAKuL-Studio/Steel-Mercenary/releases/tag/0.9.7b-beta">Beta 0.9.7b</a> [18 June 2022]<br>
+        <li> <a href="https://github.com/bAKuL-Studio/Steel-Mercenary/releases/tag/0.9.7a-beta">Beta 0.9.7a</a> [24 May 2022]<br>
+        <li> <a href="https://github.com/bAKuL-Studio/Steel-Mercenary/releases/tag/0.9.6f-beta">Beta 0.9.6f</a> [23 May 2022]<br>
+        <li> <a href="https://github.com/bAKuL-Studio/Steel-Mercenary/releases/tag/0.9.6e-beta">Beta 0.9.6e</a> [22 May 2022]<br>
+        <li> <a href="https://github.com/bAKuL-Studio/Steel-Mercenary/releases/tag/0.9.6d-beta">Beta 0.9.6d</a> [19 May 2022]<br>
+        <li> <a href="https://github.com/bAKuL-Studio/Steel-Mercenary/releases/tag/0.9.6c-beta">Beta 0.9.6c</a> [18 May 2022]<br>
+        <li> <a href="https://github.com/bAKuL-Studio/Steel-Mercenary/releases/tag/0.9.6b-beta">Beta 0.9.6b</a> [17 May 2022]<br>
+        <li> <a href="https://github.com/bAKuL-Studio/Steel-Mercenary/releases/tag/0.9.6a-beta">Beta 0.9.6a</a> [3 April 2022]<br>
+        <li> <a href="https://github.com/bAKuL-Studio/Steel-Mercenary/releases/tag/0.9.5b-beta">Beta 0.9.5b</a> [1 April 2022]<br>
+        <li> <a href="https://github.com/bAKuL-Studio/Steel-Mercenary/releases/tag/0.9.5a-beta">Beta 0.9.5a</a> [31 March 2022]<br>
+        <li> <a href="https://github.com/bAKuL-Studio/Steel-Mercenary/releases/tag/0.9.4b-beta">Beta 0.9.4b</a> [30 March 2022]<br>
+        <li> <a href="https://github.com/bAKuL-Studio/Steel-Mercenary/releases/tag/0.9.4a-beta">Beta 0.9.4a</a> [28 March 2022]<br>
+        <li> <a href="https://github.com/bAKuL-Studio/Steel-Mercenary/releases/tag/0.9.3-beta">Beta 0.9.3</a> [27 March 2022]<br>
+        <li> <a href="https://github.com/bAKuL-Studio/Steel-Mercenary/releases/tag/0.9.2-beta">Beta 0.9.2</a> [26 March 2022]<br>
+        <li> <a href="https://github.com/bAKuL-Studio/Steel-Mercenary/releases/tag/0.9.1-beta">Beta 0.9.1</a> [25 March 2022]<br>
+        <li> <a href="https://github.com/bAKuL-Studio/Steel-Mercenary/releases/tag/0.9.0-beta">Beta 0.9.0</a> [25 March 2022]<br>
+      </ul>
+    </details>
     <details>
       <summary>Alpha</summary>
       <ul>
